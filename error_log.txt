@@ -1,0 +1,1 @@
+ Error no:2 Error Message:Undefined variable $sql File name: C:\xampp\htdocs\ProjectWebFinal\Login.php Line:25 Error no:2 Error Message:Undefined variable $sql File name: C:\xampp\htdocs\ProjectWebFinal\Login.php Line:25
